@@ -1,0 +1,2 @@
+- I'm a third party dev
+- I'm currently working on a cURL-command based web browser
