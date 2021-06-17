@@ -1,2 +1,2 @@
 - I'm a third party dev
-- I'm currently working on a cURL-command based web browser <p><a href="https://commons.wikimedia.org/wiki/File:Curl-logo.svg#/media/Fichier:Curl-logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Curl-logo.svg/1200px-Curl-logo.svg.png" alt="Curl-logo.svg" width="30"></a><br></p>
+- I'm currently working on a cURL-command based web browser 
