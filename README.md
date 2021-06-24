@@ -1,3 +1,3 @@
 - I'm a third party dev 🖥️
-- I'm currently working on a Python 🐍 **cURL-command** based web browser 
+- I'm currently working on a C++ **cURL-command** based web browser 
 - I have started a Computer-Aided Music application in Python 🎵
