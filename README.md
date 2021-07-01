@@ -1,3 +1,3 @@
 - I'm a third party dev 🖥️
-- I'm currently working on a C++ **cURL-command** based web browser 
-- I have started a Computer-Aided Music application in Python 🎵
+- I am trying to create a very easy web video game using JavaScript
+- I have many projects at the same time 😉
