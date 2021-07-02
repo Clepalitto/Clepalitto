@@ -1,3 +1,3 @@
 - I'm a third party dev 🖥️
 - I am trying to create a very easy web video game using JavaScript
-- I have many projects at the same time 😉
+- I have many projects at the same time 😉, like both the `cURL-based web browser` and the `JavaScript game`
