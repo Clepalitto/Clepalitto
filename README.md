@@ -1,4 +1,4 @@
-- I'm a third party dev 💻
+- I'm a full stack dev 💻
 - I am currently working on an astrophotography planning 📷 program
 
 > Did You Know ? 
