@@ -1,4 +1,4 @@
-- I'm a full stack dev 💻
+
 - I am currently working on a Git client
 
 > Did You Know ? 
